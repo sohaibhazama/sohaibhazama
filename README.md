@@ -2,7 +2,7 @@
 
 # Hi there 👋, I'm Sohaib Hazama
 ## Software Developer and Computer Scientist
-I am a Software Developer and Computer Scientist with a Bachelor of Computer Science. I am passionate about programming and science. I am interested in learning ASP.NET MVC, Rust, and Julia tools. I am interested in learning about Software Engineering Computational science, especially computational physics, and biology.
+I am a Software Developer and Computer Scientist with a Bachelor of Science in Computer Science. I am passionate about programming and science. I am interested in learning ASP.NET MVC, Rust, and Julia tools. I am interested in learning about Software Engineering Computational science, especially computational physics, and biology.
 
 Skills: C++ / Python / C# / ASP.NET MVC / ASP.NET Core / Machine Learning / Computer Graphics / GPU Programming / Parallel Programming / REACT / JS / HTML / CSS
 
