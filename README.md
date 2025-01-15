@@ -6,5 +6,5 @@ I'm a Computer Scientist and Software Developer at the Alabama Office of Informa
 
 Skills: C++ / Python / C# / .NET / ASP.NET Core / Machine Learning / Computer Graphics / GPU Programming / Parallel Programming / REACT / JavaScript / HTML / CSS
 
-- 🔭 I’m currently working on Learning new programming languages and tools Such as: ASP.NET MVC, Rust, and Julia
+- 🔭 I’m currently working on Learning new programming languages and tools Such as: .NET, Rust, and Julia
 - 🌱 I’m currently learning Computational Science and .NET
