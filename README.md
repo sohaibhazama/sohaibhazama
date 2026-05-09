@@ -1,10 +1,10 @@
 
 
 # Hi there 👋, I'm Sohaib Hazama
-## Software Developer and Computer Scientist
-I'm a Computer Scientist and Software Developer at the Alabama Office of Information Technology. I received my Bachelor of Science in Computer Science from Auburn University at Montgomery. I'm passionate about programming, mathematics, and science. I'm interested in Software Engineering, Computational Mathematics, and Computational Science.
+## Software Developer
+I'm a Software Developer at the Alabama Office of Information Technology. I'm passionate about programming, mathematics, and science. I'm interested in Software Engineering, Computational Mathematics, and Computational Science.
 
-Skills: C++ / Python / C# / .NET / ASP.NET Core / Machine Learning / Computer Graphics / GPU Programming / Parallel Programming / REACT / JavaScript / HTML / CSS
+Skills: C++ / Python / C# / .NET Backend Development / Azure / Machine Learning / Computer Graphics / GPU Programming / Parallel Programming / Linux / JavaScript / ASP.NET Core / SQL Server / Enterprise Government Systems
 
-- 🔭  I’m currently working on Learning programming languages and tools Such as: .NET, Java, Go, Rust, and Python
-- 🌱 I’m currently learning Computational Science and .NET
+- 🔭 I’m currently working on Learning programming languages and tools Such as: .NET, Java, Go, Rust, and Python
+- 🌱 I’m currently learning Software engineering and .NET
