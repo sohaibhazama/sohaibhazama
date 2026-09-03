@@ -1,8 +1,8 @@
 
 
 # Hi there 👋, I'm Sohaib Hazama
-## Software Developer
-I'm a Software Developer at the Alabama Office of Information Technology. I'm passionate about programming, mathematics, and science. I'm interested in Software Engineering, Computational Mathematics, and Computational Science.
+## Software Engineer
+I'm a Software Engineer at the Alabama Office of Information Technology. I'm passionate about programming, mathematics, and science. I'm interested in Software Engineering, Computational Mathematics, and Computational Science.
 
 Skills: C++ / Python / C# / .NET Backend Development / Azure / Machine Learning / Computer Graphics / GPU Programming / Parallel Programming / Linux / JavaScript / SQL Server / Enterprise Government Systems
 
