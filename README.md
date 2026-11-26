@@ -6,5 +6,7 @@ I'm a Software Engineer at the Alabama Office of Information Technology. I'm pas
 
 Skills: C++ / Python / C# / .NET Backend Development / Azure / Machine Learning / Computer Graphics / GPU Programming / Parallel Programming / Linux / JavaScript / SQL Server / Enterprise Government Systems
 
+Topics: csharp, dotnet, aspnet-core, rest-api, sql-server
+
 - 🔭 I’m currently working on Learning programming languages and tools Such as: .NET, Java, Go, Rust, and Python
 - 🌱 I’m currently learning Software engineering and .NET
